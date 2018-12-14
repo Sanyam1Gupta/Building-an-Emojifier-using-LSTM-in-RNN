@@ -1,6 +1,6 @@
 # Building an Emojifier using LSTM in RNN
 
-In this project, i will build an emojifier which takes as input a sentence and finds the most appropriate emoji to be used with this sentence.
+Here,i will build an emojifier which takes as input a sentence and finds the most appropriate emoji to be used with this sentence.
 I will use GloVe vector representation for representing the words of sentences.
 I will build two models for the emojifier-
  a) a simple RNN
